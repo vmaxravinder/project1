@@ -1,0 +1,37 @@
+06-03-2018:
+===============
+Soap APi issue:
+api_testing_page.php ->debugging
+-------
+Municipalservices website API Issue
+api/get_council_details.php
+[18-18]
+---------
+Github:
+user:vmaxravinder
+pwd:vmax@1234
+http://rogerdudler.github.io/git-guide/  
+
+==============================================================
+Git Practice:
+--------------
+https://www.screencast.com/t/Vyhk0nUN
+
+After Editing the file:
+https://www.screencast.com/t/dz4OuaasZrn
+
+git --version
+
+git config --global -user.name "Ravindar Reddy Yampalla"
+git config --global -user.email "vmax.ravinder@gmail.com"
+
+git config --list
+
+git help config
+
+git config --help
+
+git add --help
+git reset test.php
+
+
