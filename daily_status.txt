@@ -1,3 +1,7 @@
+http://104.167.9.227:2083/
+municipalservce
+sHDs5@i9$4s87G
+
 06-03-2018:
 ===============
 Soap APi issue:
@@ -43,6 +47,20 @@ git reset test.php
 
 cd(SPACE)..
 git diff
+For Renaming:
+git mv string.c string_operations.c
+Revert Uncommitted Changes:
+[jerry@CentOS src]$ pwd
+/home/jerry/jerry_repo/project/src
+
+[jerry@CentOS src]$ git status -s
+M string_operations.c
+
+[jerry@CentOS src]$ git checkout string_operations.c
+
+[jerry@CentOS src]$ git status –s
+
+-----------------------------------------------------------------------------
 
 Bug:
 
@@ -69,8 +87,14 @@ https://www.screencast.com/t/kATk1IOlwOl
 http://municipalservices.in/Property_tax_calculator.php
 
 *Redundency in LOCALITY NAME dropdown names display:
+==============08-03-2018====================================================================================================================
+Before adding separate table for dashboard:
+https://www.screencast.com/t/0KXzcfn4C
 
-
+https://app.asana.com
+login credentials:
+vmax.ravinder@gmail.com
+vmax@1234
 
 
 
