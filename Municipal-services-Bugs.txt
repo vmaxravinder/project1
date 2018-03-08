@@ -1,0 +1,31 @@
+07-03-2018
+=============
+Bug List:
+
+http://municipalservices.in/category3_mst.php
+Dropdown spell mistake.
+
+http://municipalservices.in/update_service_doc_map.php
+Spell mistake in application fee column.
+http://municipalservices.in/update_service_doc_map.php
+Cancel button not working
+http://municipalservices.in/manage_desg.php
+commissioner spell mistake
+FUnctionalities:
+http://municipalservices.in/manage_dept.php
+Edit is not working
+Either hide Edit Button/implement
+http://municipalservices.in/public_holydays.php
+Change columns alignment to center
+http://municipalservices.in/update_service_doc_map.php
+Error message in header.
+Ref:
+https://www.screencast.com/t/kATk1IOlwOl
+
+http://municipalservices.in/Property_tax_calculator.php
+
+*Redundency in LOCALITY NAME dropdown names display.
+
+http://tsmepma.in/suhsurvey/index.php
+admin
+admin123
