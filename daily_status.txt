@@ -1,7 +1,25 @@
+http://municipalservices.in
+#1
+test
+test
+#2
+Ramagundam
+Ramagundam
+-----------------------------------------------------------
+
 http://104.167.9.227:2083/
 municipalservce
 sHDs5@i9$4s87G
-
+------------------------------------------------------------------
+http://tsmepma.in/suhsurvey/index.php
+admin
+admin123
+----------------------------------------------------------------------
+https://app.asana.com
+login credentials:
+vmax.ravinder@gmail.com
+vmax@1234
+**************************************************************************************************************************************
 06-03-2018:
 ===============
 Soap APi issue:
@@ -91,10 +109,6 @@ http://municipalservices.in/Property_tax_calculator.php
 Before adding separate table for dashboard:
 https://www.screencast.com/t/0KXzcfn4C
 
-https://app.asana.com
-login credentials:
-vmax.ravinder@gmail.com
-vmax@1234
 
 
 
