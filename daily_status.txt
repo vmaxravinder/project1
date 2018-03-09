@@ -19,6 +19,11 @@ https://app.asana.com
 login credentials:
 vmax.ravinder@gmail.com
 vmax@1234
+---------------------------------------------------------------------
+https://github.com/login
+u/n:ravindar.yampalla@gmail.com
+pwd:vmax@1234 
+
 **************************************************************************************************************************************
 06-03-2018:
 ===============
@@ -107,7 +112,9 @@ http://municipalservices.in/Property_tax_calculator.php
 *Redundency in LOCALITY NAME dropdown names display:
 ==============08-03-2018====================================================================================================================
 Before adding separate table for dashboard:
-https://www.screencast.com/t/0KXzcfn4C
+https://www.screencast.com/t/0KXzcfn
+=============09-03-2018===============================================================================================================================
+select g.*,c.cat_id from grievances g,cs_mst c where g.cat3_id=c.cs_id and g.ulbid='500' and g.app_type_id='1' order by date_regd DESC 
 
 
 
