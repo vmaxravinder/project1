@@ -115,8 +115,26 @@ Before adding separate table for dashboard:
 https://www.screencast.com/t/0KXzcfn
 =============09-03-2018===============================================================================================================================
 select g.*,c.cat_id from grievances g,cs_mst c where g.cat3_id=c.cs_id and g.ulbid='500' and g.app_type_id='1' order by date_regd DESC 
+https://www.doublehops.com/2009/07/07/quick-tutorial-on-getting-started-with-soap-in-php/comment-page-1/
+https://stackoverflow.com/questions/21861077/soap-error-parsing-wsdl-couldnt-load-from-but-works-on-wamp
 
+-Soap Services.
+-Tasks List:
+1. Pagination on all reports
 
+2. Updating status of complaint dynamically as updated by user
+
+3. Check report issue given to yashwant on whatsapp
+
+4. once all tables & reports set right need to run one time query to post all complaints on status table
+
+5. Cron to be run to find pending within sla complaints status frequently
+
+ to change status
+Soap wsdl:
+https://www.screencast.com/t/01w6KqAP1I
+Live Issue==>
+Korutla Municipality - Complaints are not resolved in web site and mobile also
 
 
 
