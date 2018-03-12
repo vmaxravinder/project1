@@ -135,6 +135,12 @@ Soap wsdl:
 https://www.screencast.com/t/01w6KqAP1I
 Live Issue==>
 Korutla Municipality - Complaints are not resolved in web site and mobile also
+=======================12-03-2018===========================
+1.scrum meeting
+2.working on municipal servies soap issue.
+3.AngularJS v.1
+
+
 
 
 
