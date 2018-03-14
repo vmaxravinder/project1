@@ -139,6 +139,19 @@ Korutla Municipality - Complaints are not resolved in web site and mobile also
 1.scrum meeting
 2.working on municipal servies soap issue.
 3.AngularJS v.1
+================================================================
+13-03-2018
+1. about srs document creation discussion
+2. soap service api changes
+=======14-03-2018==============================================================
+issues in report section:
+1. http://municipalservices.in/dept_empwise.php?app_type_id=1&dept_id=619&status=2
+2. http://municipalservices.in/complaint_emp_map_report_street_wise.php
+CI Crud link:
+ https://itsolutionstuff.com/post/codeigniter-3-basic-crud-application-with-mysql-example-with-demoexample.html   
+================================================================================================================
+
+ 
 
 
 
